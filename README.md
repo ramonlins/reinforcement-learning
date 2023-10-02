@@ -1,2 +1,2 @@
 # reinforcement-learning
-Master the fundamentals of reinforcement learning. (Under development)
+Understandig the fundamentals of reinforcement learning. (Under development)
